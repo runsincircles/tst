@@ -17,9 +17,9 @@ module.exports = {
     }
   },
   onStart: async ({ api, event, args }) => {
-    const prefix = "?"; // Replace with your desired prefix 
-    const ownerName = "Tokodori"; // Replace with your name or bot owner's name
-    const createdBy = "Tokodori Threader"; // Replace with Developer Name
+    const prefix = "-"; // Replace with your desired prefix 
+    const ownerName = "r3ba"; // Replace with your name or bot owner's name
+    const createdBy = "r3ba krof"; // Replace with Developer Name
 
     const bioText = `
 ❒  PREFIX: ${prefix} 
