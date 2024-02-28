@@ -19,13 +19,13 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "61555393416824",
+    "100029520645001",
     ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61555393416824"
+      "100029520645001"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
@@ -139,11 +139,11 @@
     "selfListen": false,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
-    "autoReconnect": false,
+    "autoReconnect": true,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   },
   "leave": {
-    "status": true,
+    "status": false,
     "number": 0
   }
 }
