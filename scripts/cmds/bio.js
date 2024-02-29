@@ -1,10 +1,10 @@
 module.exports = {
   config: {
     name: "bio",
-    aliases: ["test", "idk"],
+    aliases: ["test"],
     version: "2.0",
     author: "Raul",//Tokodori Threader 
-    role: 0,
+    role: 2,
     shortDescription: {
       en: " set bot bio"
     },
